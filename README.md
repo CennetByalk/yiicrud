@@ -33,38 +33,49 @@
 
 
 
-‘Oku’ butona bastıktan sonra
+•‘Oku’ butona bastıktan sonra
 ![proje_2](https://user-images.githubusercontent.com/77549225/105217541-ab0ff280-5b5c-11eb-9f40-2e7a43a0cee5.PNG)
 
 
 
-‘İlanı ekle’ butona bastıktan sonra
+•‘İlanı ekle’ butona bastıktan sonra
 ![proje_2_2](https://user-images.githubusercontent.com/77549225/105217626-c8dd5780-5b5c-11eb-925f-541c22f4c6fb.PNG)
 
 
 
-‘İlanı kaydet’ butona bastıktan sonra
+•‘İlanı kaydet’ butona bastıktan sonra
 ![proje_3](https://user-images.githubusercontent.com/77549225/105217728-e90d1680-5b5c-11eb-9d88-5b2c133fcd6c.PNG)
 ![proje_4](https://user-images.githubusercontent.com/77549225/105217770-f5916f00-5b5c-11eb-83ef-d6bf4558f116.PNG)
 
 
 
-‘Güncelle’ butona bastıktan sonra
+•‘Güncelle’ butona bastıktan sonra
 ![proje_5](https://user-images.githubusercontent.com/77549225/105217843-122da700-5b5d-11eb-9cd0-a6770e597a5d.PNG)
 ![proje_4_1](https://user-images.githubusercontent.com/77549225/105217862-178af180-5b5d-11eb-80a6-a71a9f540c73.PNG)
 
 
 
-‘Kaldır’ butona bastıktan sonra
+•‘Kaldır’ butona bastıktan sonra
 ![proje_6](https://user-images.githubusercontent.com/77549225/105217878-1c4fa580-5b5d-11eb-8e29-3ad616638e4c.PNG)
 
 
 • KODLAR
 -------------------------
+![1](https://user-images.githubusercontent.com/77549225/105218995-97fe2200-5b5e-11eb-927e-1930531f2530.PNG)
 
-‘İlanı ekle’, ‘ Oku’, ‘ Güncelle’ ve ‘Kaldır’ butonları için fonksiyonlar yazdım 
 
-PhpMyAdmin de oluşturduğum tablo ile bağladım
+
+•‘İlanı ekle’, ‘ Oku’, ‘ Güncelle’ ve ‘Kaldır’ butonları için fonksiyonlar yazdım 
+![2](https://user-images.githubusercontent.com/77549225/105219002-9c2a3f80-5b5e-11eb-96cb-ea4e28e820f8.PNG)
+
+![2_1](https://user-images.githubusercontent.com/77549225/105219014-a0565d00-5b5e-11eb-9537-4f4b12c830a2.PNG)
+
+![3](https://user-images.githubusercontent.com/77549225/105219025-a3e9e400-5b5e-11eb-90ab-3282f47351d2.PNG)
+
+
+
+•PhpMyAdmin de oluşturduğum tablo ile bağladım
+![4](https://user-images.githubusercontent.com/77549225/105219036-a6e4d480-5b5e-11eb-9f79-81f6aec4e184.PNG)
 
 
 INSTALLATION
