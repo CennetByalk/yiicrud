@@ -10,10 +10,14 @@
 
 
 
+
+
 • XAMPP kullanmak
 ------------------------
 
 ![xampp](https://user-images.githubusercontent.com/77549225/105217390-77cd6380-5b5c-11eb-9eec-dff75cedb610.PNG)
+
+
 
 
 
@@ -27,9 +31,14 @@
 
 
 
+
+
+
 • ARAYÜZ
 -------------------------
 ![proje_1](https://user-images.githubusercontent.com/77549225/105215688-3f2c8a80-5b5a-11eb-93d7-f8fb5998f4a3.PNG)
+
+
 
 
 
@@ -38,8 +47,12 @@
 
 
 
+
+
 •‘İlanı ekle’ butona bastıktan sonra
 ![proje_2_2](https://user-images.githubusercontent.com/77549225/105217626-c8dd5780-5b5c-11eb-925f-541c22f4c6fb.PNG)
+
+
 
 
 
@@ -49,9 +62,13 @@
 
 
 
+
+
 •‘Güncelle’ butona bastıktan sonra
 ![proje_5](https://user-images.githubusercontent.com/77549225/105217843-122da700-5b5d-11eb-9cd0-a6770e597a5d.PNG)
 ![proje_4_1](https://user-images.githubusercontent.com/77549225/105217862-178af180-5b5d-11eb-80a6-a71a9f540c73.PNG)
+
+
 
 
 
@@ -59,9 +76,13 @@
 ![proje_6](https://user-images.githubusercontent.com/77549225/105217878-1c4fa580-5b5d-11eb-8e29-3ad616638e4c.PNG)
 
 
+
+
 • KODLAR
 -------------------------
 ![1](https://user-images.githubusercontent.com/77549225/105218995-97fe2200-5b5e-11eb-927e-1930531f2530.PNG)
+
+
 
 
 
@@ -71,6 +92,8 @@
 ![2_1](https://user-images.githubusercontent.com/77549225/105219014-a0565d00-5b5e-11eb-9537-4f4b12c830a2.PNG)
 
 ![3](https://user-images.githubusercontent.com/77549225/105219025-a3e9e400-5b5e-11eb-90ab-3282f47351d2.PNG)
+
+
 
 
 
