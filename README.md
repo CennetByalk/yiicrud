@@ -13,39 +13,40 @@
 ------------------------
 
       assets/             contains assets definition
-      commands/           contains console commands (controllers)
-      config/             contains application configurations
-      controllers/        contains Web controller classes
-      mail/               contains view files for e-mails
-      models/             contains model classes
-      runtime/            contains files generated during runtime
-      tests/              contains various tests for the basic application
-      vendor/             contains dependent 3rd-party packages
-      views/              contains view files for the Web application
-      web/                contains the entry script and Web resources
+
+![xampp](https://user-images.githubusercontent.com/77549225/105217390-77cd6380-5b5c-11eb-9eec-dff75cedb610.PNG)
 
 
 
 • PhpMyAdmin kullanmak
 -------------------------
 
-The minimum requirement by this project template that your Web server supports PHP 5.6.0.
+![phpmyadmin_1](https://user-images.githubusercontent.com/77549225/105217464-90d61480-5b5c-11eb-90aa-caaf71cafbe5.PNG)
+
+![phpmyadmin_0](https://user-images.githubusercontent.com/77549225/105217475-94699b80-5b5c-11eb-9e45-88e4dfa25a0e.PNG)
+
 
 
 • ARAYÜZ
 -------------------------
-
+![proje_1](https://user-images.githubusercontent.com/77549225/105215688-3f2c8a80-5b5a-11eb-93d7-f8fb5998f4a3.PNG)
 
 ‘Oku’ butona bastıktan sonra
+![proje_2](https://user-images.githubusercontent.com/77549225/105217541-ab0ff280-5b5c-11eb-9f40-2e7a43a0cee5.PNG)
 
 ‘İlanı ekle’ butona bastıktan sonra
+![proje_2_2](https://user-images.githubusercontent.com/77549225/105217626-c8dd5780-5b5c-11eb-925f-541c22f4c6fb.PNG)
 
 ‘İlanı kaydet’ butona bastıktan sonra
-
+![proje_3](https://user-images.githubusercontent.com/77549225/105217728-e90d1680-5b5c-11eb-9d88-5b2c133fcd6c.PNG)
+![proje_4](https://user-images.githubusercontent.com/77549225/105217770-f5916f00-5b5c-11eb-83ef-d6bf4558f116.PNG)
 
 ‘Güncelle’ butona bastıktan sonra
+![proje_5](https://user-images.githubusercontent.com/77549225/105217843-122da700-5b5d-11eb-9cd0-a6770e597a5d.PNG)
+![proje_4_1](https://user-images.githubusercontent.com/77549225/105217862-178af180-5b5d-11eb-80a6-a71a9f540c73.PNG)
 
 ‘Kaldır’ butona bastıktan sonra
+![proje_6](https://user-images.githubusercontent.com/77549225/105217878-1c4fa580-5b5d-11eb-8e29-3ad616638e4c.PNG)
 
 
 • KODLAR
