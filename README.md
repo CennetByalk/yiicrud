@@ -9,8 +9,8 @@
 ![proje_1](https://user-images.githubusercontent.com/77549225/105215688-3f2c8a80-5b5a-11eb-93d7-f8fb5998f4a3.PNG)
 
 
-•XAMPP kullanmak
--------------------
+• XAMPP kullanmak
+------------------------
 
       assets/             contains assets definition
       commands/           contains console commands (controllers)
@@ -26,10 +26,34 @@
 
 
 
-REQUIREMENTS
-------------
+• PhpMyAdmin kullanmak
+-------------------------
 
 The minimum requirement by this project template that your Web server supports PHP 5.6.0.
+
+
+• ARAYÜZ
+-------------------------
+
+
+‘Oku’ butona bastıktan sonra
+
+‘İlanı ekle’ butona bastıktan sonra
+
+‘İlanı kaydet’ butona bastıktan sonra
+
+
+‘Güncelle’ butona bastıktan sonra
+
+‘Kaldır’ butona bastıktan sonra
+
+
+• KODLAR
+-------------------------
+
+‘İlanı ekle’, ‘ Oku’, ‘ Güncelle’ ve ‘Kaldır’ butonları için fonksiyonlar yazdım 
+
+PhpMyAdmin de oluşturduğum tablo ile bağladım
 
 
 INSTALLATION
